@@ -64,7 +64,7 @@ def find_file_cache():
         "all_cache_files": all_cache_files  # All available cache files
     }
 
-# Run the function
+
 find_file_cache()]]></script>
   </tool>
 </shelfDocument>
